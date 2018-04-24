@@ -1,26 +1,25 @@
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet's pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+# Philippe
 
-- this is
-- an unordered
-- list
+### Geographie
 
-1. this is
-2. an unordered 
-3. list
+J'habite en suisse dasn le coanton de Berne et je travaille 
+à grange dans le canton de soleur
 
-Here is 'some code' in the middle of a sentence
+### Lecture
+mes trois livres favori
+- les fourmis
+- le jour des fourmis
+- la révolution des fourmis
 
-'''
-This is
-a block 
-of code
-'''
+### Manger
+la nuit dernière j'ai révé que je mangeais
+1. une langouste
+2. un bout de viande
+3. un bon dessert
 
-Here is how you made [a link](https://www.wikipedia.org/).
+### Contact
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/V0.2.0/karl-monstache.jpg)
+le meilleur moyen [on FaceBook](https://facebook.com/Philippe Schindelholz
+
 
 
